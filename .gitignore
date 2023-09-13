@@ -1,0 +1,8 @@
+Micro-ROS-Agent/build
+Micro-ROS-Agent/install
+Micro-ROS-Agent/log
+
+Host/.vscode
+Host/build
+Host/install
+Host/log
