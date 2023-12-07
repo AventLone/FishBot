@@ -1,0 +1,8 @@
+source;share/fishbot/hook/cmake_prefix_path.ps1
+source;share/fishbot/hook/cmake_prefix_path.dsv
+source;share/fishbot/hook/cmake_prefix_path.sh
+source;share/fishbot/local_setup.bash
+source;share/fishbot/local_setup.dsv
+source;share/fishbot/local_setup.ps1
+source;share/fishbot/local_setup.sh
+source;share/fishbot/local_setup.zsh
